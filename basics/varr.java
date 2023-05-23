@@ -1,4 +1,4 @@
-class Var
+class Varr
 {
     public static void main(String args[])
     {
